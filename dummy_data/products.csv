@@ -1,0 +1,97 @@
+product_id,product_name,size_weight,unit,stock_quantity,purchase_price,selling_price,low_stock_limit,expiry_date,company_id,category_id
+1,Pepsi (500ml),500ml,Bottle,77,489.95,609.71,28,2027-09-12,1,1
+2,Pepsi (1L),1L,Bottle,189,311.17,398.32,28,2026-11-04,1,1
+3,Pepsi (1.5L),1.5L,Bottle,109,227.95,262.4,24,2028-01-12,1,1
+4,Pepsi (250ml Can),250ml Can,Bottle,191,271.14,345.61,24,2027-06-08,1,1
+5,Mountain Dew (500ml),500ml,Bottle,287,457.13,568.84,14,2028-01-07,1,1
+6,Mountain Dew (1L),1L,Bottle,121,433.6,503.53,20,2028-03-28,1,1
+7,Mountain Dew (1.5L),1.5L,Bottle,214,128.06,152.29,28,2027-12-14,1,1
+8,Mountain Dew (250ml Can),250ml Can,Bottle,249,354.84,424.9,24,2027-11-23,1,1
+9,7UP (500ml),500ml,Bottle,140,629.89,768.3,23,2027-07-11,1,1
+10,7UP (1L),1L,Bottle,119,440.74,488.37,12,2027-07-24,1,1
+11,7UP (1.5L),1.5L,Bottle,170,355.15,445.05,12,2027-06-05,1,1
+12,7UP (250ml Can),250ml Can,Bottle,167,765.71,970.35,17,2026-08-12,1,1
+13,Sting (500ml),500ml,Bottle,102,261.85,304.33,12,2026-11-17,1,1
+14,Sting (1L),1L,Bottle,50,241.52,307.93,11,2027-02-16,1,1
+15,Sting (1.5L),1.5L,Bottle,220,668.82,790.91,11,2027-10-01,1,1
+16,Sting (250ml Can),250ml Can,Bottle,208,181.62,203.73,28,2026-09-26,1,1
+17,Mirinda (500ml),500ml,Bottle,258,678.44,860.62,16,2028-03-04,1,1
+18,Mirinda (1L),1L,Bottle,190,347.88,391.54,21,2027-11-24,1,1
+19,Mirinda (1.5L),1.5L,Bottle,79,221.78,262.76,22,2028-04-14,1,1
+20,Mirinda (250ml Can),250ml Can,Bottle,288,573.1,711.43,17,2027-03-31,1,1
+21,Aquafina Bottled Water (500ml),500ml,Bottle,176,694.04,886.03,24,2028-03-09,1,1
+22,Aquafina Bottled Water (1.5L),1.5L,Bottle,110,553.02,668.09,29,2027-08-02,1,1
+23,Aquafina Bottled Water (5L),5L,Bottle,52,192.25,242.64,27,2026-09-29,1,1
+24,Canola Oil (1 Ltr Pouch),1 Ltr Pouch,Bottle,118,416.51,478.52,11,2027-05-23,2,2
+25,Canola Oil (3 Ltr Bottle),3 Ltr Bottle,Bottle,77,425.18,540.93,19,2028-02-04,2,2
+26,Canola Oil (5 Ltr Tin),5 Ltr Tin,Bottle,134,230.49,283.02,10,2026-08-25,2,2
+27,Sunflower Oil (1 Ltr Pouch),1 Ltr Pouch,Bottle,83,297.31,329.27,10,2027-11-21,2,2
+28,Sunflower Oil (3 Ltr Bottle),3 Ltr Bottle,Bottle,254,525.32,622.98,12,2027-10-05,2,2
+29,Sunflower Oil (5 Ltr Tin),5 Ltr Tin,Bottle,112,327.74,365.45,29,2027-08-29,2,2
+30,Banaspati Ghee (1 Kg Pouch),1 Kg Pouch,Unit,123,699.0,805.8,20,2026-09-20,2,2
+31,Banaspati Ghee (2.5 Kg Tin),2.5 Kg Tin,Unit,264,124.03,160.32,27,2027-04-25,2,2
+32,Banaspati Ghee (5 Kg Tin),5 Kg Tin,Unit,162,420.16,468.83,26,2026-11-04,2,2
+33,Laundry Soap (Regular),Regular,Unit,237,660.84,747.74,10,2027-03-11,2,3
+34,Laundry Soap (Large),Large,Bottle,178,218.33,245.23,24,2027-10-16,2,3
+35,Laundry Soap (Economy Pack),Economy Pack,Piece,237,644.97,810.42,13,2028-03-02,2,3
+36,Detergent Powder (Regular),Regular,Unit,96,676.85,779.51,19,2027-03-31,2,3
+37,Detergent Powder (Large),Large,Bottle,231,410.14,472.05,28,2027-05-05,2,3
+38,Detergent Powder (Economy Pack),Economy Pack,Piece,287,425.72,533.55,22,2026-09-22,2,3
+39,Safon Dishwasher (Regular),Regular,Unit,219,711.79,889.38,29,2027-03-05,2,3
+40,Safon Dishwasher (Large),Large,Bottle,101,376.79,430.04,12,2026-10-20,2,3
+41,Safon Dishwasher (Economy Pack),Economy Pack,Piece,220,365.15,450.86,29,2026-10-23,2,3
+42,Strawberry Jam (200g),200g,Unit,268,709.19,897.18,22,2027-06-26,3,4
+43,Strawberry Jam (440g),440g,Unit,148,327.31,371.87,27,2027-08-22,3,4
+44,Strawberry Jam (800g),800g,Unit,215,425.22,475.23,10,2027-10-09,3,4
+45,Apricot Jam (200g),200g,Unit,189,546.9,626.67,15,2027-04-23,3,4
+46,Apricot Jam (440g),440g,Unit,59,215.36,274.82,20,2028-01-30,3,4
+47,Apricot Jam (800g),800g,Unit,214,636.83,801.07,14,2027-09-04,3,4
+48,Mango Jam (200g),200g,Unit,105,116.2,128.38,26,2027-04-22,3,4
+49,Mango Jam (440g),440g,Unit,233,256.34,331.1,11,2028-04-14,3,4
+50,Mango Jam (800g),800g,Unit,92,247.19,282.29,20,2028-02-20,3,4
+51,Golden Apple Jam (200g),200g,Unit,136,755.33,837.57,21,2028-02-14,3,4
+52,Golden Apple Jam (440g),440g,Unit,95,241.17,269.62,16,2028-03-18,3,4
+53,Golden Apple Jam (800g),800g,Unit,290,794.26,884.18,27,2028-04-20,3,4
+54,Diet Jam (200g),200g,Unit,161,425.83,541.53,18,2027-01-19,3,4
+55,Diet Jam (440g),440g,Unit,60,187.68,230.67,18,2028-02-05,3,4
+56,Diet Jam (800g),800g,Unit,227,100.73,124.33,22,2028-04-05,3,4
+57,Mango Squash (800ml),800ml,Bottle,269,423.08,509.3,10,2026-10-21,3,5
+58,Mango Squash (1000ml),1000ml,Bottle,265,142.9,180.21,13,2026-08-23,3,5
+59,Lemon Juice (800ml),800ml,Bottle,189,290.48,333.39,15,2028-03-05,3,5
+60,Lemon Juice (1000ml),1000ml,Bottle,61,477.06,540.09,11,2026-12-03,3,5
+61,Fruit Squashes (800ml),800ml,Bottle,263,470.92,556.44,25,2026-09-20,3,5
+62,Fruit Squashes (1000ml),1000ml,Bottle,180,560.45,651.75,11,2028-02-23,3,5
+63,White Vinegar (300ml),300ml,Bottle,178,751.13,889.24,13,2027-04-08,3,6
+64,White Vinegar (500g),500g,Unit,278,549.57,660.54,13,2027-03-16,3,6
+65,White Vinegar (800g Pouch),800g Pouch,Unit,243,236.73,260.66,28,2026-08-22,3,6
+66,Garlic Paste (300ml),300ml,Bottle,99,382.57,465.07,19,2027-08-22,3,6
+67,Garlic Paste (500g),500g,Unit,249,353.53,454.62,18,2026-11-09,3,6
+68,Garlic Paste (800g Pouch),800g Pouch,Unit,141,720.79,871.09,11,2027-05-04,3,6
+69,Tomato Ketchup (300ml),300ml,Bottle,96,339.22,422.72,25,2027-04-07,3,6
+70,Tomato Ketchup (500g),500g,Unit,260,138.42,171.46,10,2027-02-07,3,6
+71,Tomato Ketchup (800g Pouch),800g Pouch,Unit,283,283.82,342.74,19,2027-02-02,3,6
+72,Malt Drink Apple (330ml Can),330ml Can,Bottle,280,715.47,922.5,16,2026-12-17,4,1
+73,Malt Drink Apple (500ml Bottle),500ml Bottle,Bottle,237,233.09,288.39,22,2026-10-27,4,1
+74,Malt Drink Lemon (330ml Can),330ml Can,Bottle,274,106.74,129.63,13,2027-09-04,4,1
+75,Malt Drink Lemon (500ml Bottle),500ml Bottle,Bottle,119,787.8,925.8,23,2027-01-02,4,1
+76,Malt Drink Peach (330ml Can),330ml Can,Bottle,246,154.34,179.85,21,2027-05-22,4,1
+77,Malt Drink Peach (500ml Bottle),500ml Bottle,Bottle,104,389.31,432.08,15,2027-09-16,4,1
+78,Malt 79 (330ml Can),330ml Can,Bottle,162,428.88,546.96,20,2026-10-14,4,1
+79,Malt 79 (500ml Bottle),500ml Bottle,Bottle,288,114.31,131.98,28,2026-12-12,4,1
+80,Tops Mango Juice (250ml),250ml,Bottle,267,118.31,145.56,28,2027-07-02,4,1
+81,Tops Mango Juice (1 Ltr),1 Ltr,Bottle,127,744.94,844.38,13,2028-05-01,4,1
+82,Tops Apple Juice (250ml),250ml,Bottle,137,267.71,303.17,12,2027-06-18,4,1
+83,Tops Apple Juice (1 Ltr),1 Ltr,Bottle,136,502.68,560.5,13,2027-07-24,4,1
+84,Tops Orange Juice (250ml),250ml,Bottle,181,197.74,235.62,10,2027-05-22,4,1
+85,Tops Orange Juice (1 Ltr),1 Ltr,Bottle,60,435.46,549.99,23,2026-08-22,4,1
+86,Mixed Fruit Jam (200g),200g,Unit,210,554.66,657.55,22,2027-07-03,4,4
+87,Mixed Fruit Jam (440g),440g,Unit,225,159.47,196.91,11,2028-03-07,4,4
+88,Jam-e-Shirin (800ml),800ml,Bottle,196,568.57,672.62,12,2027-02-22,5,5
+89,Jam-e-Shirin (1.5L),1.5L,Bottle,258,447.59,515.79,19,2026-12-22,5,5
+90,Sharbat-e-Ilaichi (800ml),800ml,Bottle,63,398.73,495.88,13,2028-01-03,5,5
+91,Sharbat-e-Ilaichi (1.5L),1.5L,Bottle,212,193.31,229.96,30,2027-08-25,5,5
+92,Sharbat-e-Sandal (800ml),800ml,Bottle,154,167.36,212.71,13,2027-01-07,5,5
+93,Sharbat-e-Sandal (1.5L),1.5L,Bottle,129,421.41,507.2,20,2027-08-23,5,5
+94,Rooh Afza (400ml),400ml,Bottle,134,522.06,598.15,27,2027-11-29,6,5
+95,Rooh Afza (800ml),800ml,Bottle,74,372.38,454.45,19,2027-02-16,6,5
+96,Rooh Afza (1.5L),1.5L,Bottle,175,557.81,660.87,17,2028-03-02,6,5
